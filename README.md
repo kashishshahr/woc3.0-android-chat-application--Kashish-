@@ -28,3 +28,13 @@ Adit Shah: 9723285800
 Vyom Saraf: 6358077665
 Deven Vachhani: 9824978996
 
+# Github:
+ If you don't already have one, create a new account on Github: https://github.com/
+ - Install Git on your machines from https://git-scm.com/downloads if you dont already have it installed . Guide for the same can be found here: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+ Below listed are some resources  to get started with Git/Github
+
+ - Git/Github crash course: https://youtu.be/RGOj5yH7evk
+ - Interactive Learning: https://learngitbranching.js.org/
+ - GitHub Learning Lab: https://lab.github.com/
+ - Cheat sheet: https://drive.google.com/file/d/1HPuPBReaQbL4A9BGp0cVc3dCiv1azic0/view
