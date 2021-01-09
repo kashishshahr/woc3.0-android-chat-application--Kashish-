@@ -29,3 +29,4 @@ For Relative Layoutgo to Legacy->Relative Layout
  
  
  ### Search linear and Relative Layout in android
+ https://developer.android.com/guide/topics/ui/layout/relative
