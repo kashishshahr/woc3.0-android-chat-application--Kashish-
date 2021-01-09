@@ -15,3 +15,6 @@ Control+Shift+Space
 Control+Shift+Enter
 
 ![xyz](https://drive.google.com/drive/folders/1TT0SgN69wJqDEyfCSyndr1LZ6jf4Tlq4)
+
+Layout Weight attribute can help maintain child views in particular layout to get how much oerc of sace all should equally get
+then inceeeaeding size of layout wil also help in adjusting its child attributes to get adjusted accordingly
