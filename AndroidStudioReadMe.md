@@ -21,3 +21,5 @@ then inceeeaeding size of layout wil also help in adjusting its child attributes
 
 if heihgt=0dp
 then assign weight accodingly to diff attributes
+
+In linear layout u can adjust layout height width and weight accordingly to adjust 
