@@ -18,3 +18,6 @@ Control+Shift+Enter
 
 Layout Weight attribute can help maintain child views in particular layout to get how much oerc of sace all should equally get
 then inceeeaeding size of layout wil also help in adjusting its child attributes to get adjusted accordingly
+
+if heihgt=0dp
+then assign weight accodingly to diff attributes
