@@ -23,3 +23,9 @@ if heihgt=0dp
 then assign weight accodingly to diff attributes
 
 In linear layout u can adjust layout height width and weight accordingly to adjust 
+Layout->LinearLayouts
+
+For Relative Layoutgo to Legacy->Relative Layout
+ 
+ 
+ ### Search linear and Relative Layout in android
